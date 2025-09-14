@@ -52,12 +52,12 @@
 ---
 
 ## Contact
-- ✉️ Email : *rivalien.maguetswet@ensae.fr*  
-- 🔗 LinkedIn : *www.linkedin.com/in/rivalien-maguetswet-81583b2a7*  
-- 💻 GitHub : *https://github.com/PentiumR*
+- Email : *rivalien.maguetswet@ensae.fr*  
+- LinkedIn : *www.linkedin.com/in/rivalien-maguetswet-81583b2a7*  
+- GitHub : *https://github.com/PentiumR*
 
 --- 
-## ⚡ Compétences Techniques
+## Compétences Techniques
 
 | **Machine Learning** | **Modélisation Mathématique** | **Langages** | **Data Engineering & Cloud** |
 |----------------------|-------------------------------|--------------|-------------------------------|
